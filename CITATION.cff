@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Reinforcement Learning Evaluations for Gymnasium
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Phillip
+    family-names: Sellers
+    name-particle: Reece
+    email: prs20@students.uwf.edu
+    affiliation: University of West Florida
+    orcid: 'https://orcid.org/0009-0003-8416-9996'
+repository-code: 'https://github.com/PublicRegistration/capstone4ds'
