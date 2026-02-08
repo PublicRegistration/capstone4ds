@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.env
+.venv
+.dqn_pong_env/
+viz.py
